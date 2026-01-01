@@ -1,0 +1,1 @@
+This is a normal file but wait... here is the prohibited text: restricted_ip ...oops.
